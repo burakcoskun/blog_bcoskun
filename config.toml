@@ -5,5 +5,5 @@ theme = "hyde"
 [params]
 	themeColor="theme-base-0d"
 disqusShortname = "spf13"
-
+googleAnalytics = "UA-19266719-4"
 
