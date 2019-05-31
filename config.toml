@@ -1,6 +1,6 @@
 baseURL = "https://www.bcoskun.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Burak Coskun"
 theme = "hyde"
 [params]
 	themeColor="theme-base-0d"
