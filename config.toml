@@ -1,4 +1,4 @@
-baseURL = "https://www.bcoskun.com"
+baseURL = "https://www.bcoskun.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hyde"
