@@ -23,6 +23,6 @@ paginate = 10
 	home = "Blog"
 	googleAnalytics = "UA-19266719-4"
 
-	github = "burakcoskun"
-	twitter = "burakcosk"
+	github = "https://github.com/burakcoskun"
+	twitter = "https://twitter.com/burakcosk"
 	rss = true
