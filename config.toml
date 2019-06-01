@@ -1,9 +1,28 @@
 baseURL = "https://www.bcoskun.com/"
 languageCode = "en-us"
 title = "Burak Coskun"
-theme = "hyde"
-[params]
-	themeColor="theme-base-0d"
-disqusShortname = "spf13"
-googleAnalytics = "UA-19266719-4"
+theme = "hyde-x"
+disqusShortname = "bcoskun"
+paginate = 10
 
+[author]
+	name = "Burak Coskun"
+[taxonomies]
+	category = "categories"
+
+[params]
+	truncate = true
+	defaultDesciprtion = "Software Engineer @Uber"
+	defaultKeywords = "software, programming, algorithms, data structures"
+
+	hideReadingTime = true
+
+	theme = "theme-base-0d"
+	highlight = "sunburst"
+
+	home = "Blog"
+	googleAnalytics = "UA-19266719-4"
+
+	github = "burakcoskun"
+	twitter = "burakcosk"
+	rss = true
